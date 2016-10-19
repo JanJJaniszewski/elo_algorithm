@@ -1,0 +1,5 @@
+pandas
+--index-url https://pypi.python.org/simple/
+
+flask
+flask_sqlalchemy
